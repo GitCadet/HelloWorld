@@ -1,5 +1,5 @@
 # HelloWorld WebApp - Git Workflow Practice Repo
-This repository was created to practice Git workflows, to imitate real world development scenarios. My goal was to gain hands-on experience in branch management, resolving conflicts, and deployment processes.
+This repository was created to practice Git workflows and imitate real world development scenarios. My goal was to gain hands-on experience in branch management, resolving conflicts, and git processes.
 
 ![image alt](https://github.com/GitCadet/HelloWorld/blob/main/Screenshot%202025-01-20%20at%2017.34.02.png?raw=true)
 
