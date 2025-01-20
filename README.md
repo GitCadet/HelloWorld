@@ -30,4 +30,4 @@ This repository was created to practice Git workflows and imitate real world dev
 - Verified the deployment by testing the updated web application to ensure all changes were reflected and functional.
 
 ## Outcome
-By completing these exercises, and simulating team collaboration by pulling, pushing, and resolving conflicts on shared branches, I developed a deeper understanding of Git best practices for repository management and strategies for addressing complex challenges in version control. I made sure these skills are directly transferable to team-based workflows in real world development projects.
+By completing these exercises, and simulating team collaboration by pulling, pushing, and resolving conflicts on shared branches, I developed a deeper understanding of Git best practices for repository management and version control. I made sure the skills I practiced are transferable to team-based workflows in real world development projects.
