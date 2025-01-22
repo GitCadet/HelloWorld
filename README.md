@@ -6,7 +6,7 @@ This repository was created to practice Git workflows and imitate real world dev
 ### 1. **Branching and Feature Development**
 - I created the prod branch for isolated development of the HelloWorld webapp. (Other feature branches (e.g. dev,devR) were used similarly but for a index.html webpage.)
 - I pulled updates from the remote to local machine to align with the latest changes.
-- I updated background from "white" to "red", font color from "black" to "green" and box background from "white" to "yellow".  
+- I updated the code on the hworld.html file on my local machine.  
 - Committed changes frequently with messages for a readable history.
 
 ### 2. **Merging with main**
@@ -21,13 +21,13 @@ This repository was created to practice Git workflows and imitate real world dev
 - Used git stash to temporarily save uncommitted changes and allow for task switching.
 - Successfully reapplied stashed changes after resolving conflicts.
 - Rebasing prod branches onto the updated main branch to maintain a linear commit history.
-- Used git push -f to update remote branches after rebasing, ensuring a clean history.
+- Used `git push -f` to update remote branches after rebasing, ensuring a clean history.
 
   ![image alt](https://github.com/GitCadet/HelloWorld/blob/main/Screenshot%202025-01-20%20at%2017.30.56.png?raw=true)
 
-### 7. **Merging into `prod`**
-- Validated the main branch and merged it into the prod branch to simulate a deployment.
+### 7. **Merging into main**
+- Validated the prod branch and merged it into the main branch to simulate a deployment.
 - Verified the deployment by testing the updated web application to ensure all changes were reflected and functional.
 
 ## Outcome
-By completing these exercises, and simulating team collaboration by pulling, pushing, and resolving conflicts on shared branches, I developed a deeper understanding of Git best practices for repository management and version control. I made sure the skills I practiced are transferable to team-based workflows in real world development projects.
+By completing these exercises, and imitating team collaboration by pulling, pushing, and resolving conflicts on shared branches, I developed a deeper understanding of Git best practices for repository management and version control. I made sure the skills I practiced are transferable to team-based workflows in real world development projects.
