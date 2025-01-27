@@ -27,7 +27,7 @@ This repository was created to practice Git workflows and imitate real world dev
 
   ![image alt](https://github.com/GitCadet/HelloWorld/blob/main/Screenshot%202025-01-20%20at%2017.30.56.png?raw=true)
 
-### 7. **Validation**
+### 6. **Validation**
 - Validated the prod branch and merged it into the main branch to simulate a deployment.
 - Verified the deployment by testing the updated web application to ensure all changes were reflected and functional.
 
