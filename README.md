@@ -5,27 +5,29 @@ This repository was created to practice Git workflows and imitate real world dev
 
 ### 1. **Branching and Feature Development**
 - I created the prod branch for isolated development of the HelloWorld webapp. (Other feature branches (e.g. dev,devR) were used similarly but for a index.html webpage.)
-- I pulled updates from the remote to local machine to align with the latest changes.
+- I pulled updates from the remote to local machine to align with latest changes.
 - I updated the code on the hworld.html file on my local machine.  
 - Committed changes frequently with messages for a readable history.
 
-### 2. **Merging with main**
-- Merged prod branches into the main branch while addressing divergence.
-- Practiced both fastforward and three way merges, depending on branch history.
-
-### 3. **Conflict Resolution**
-- The main branch had diverged due to "Dev is cool" paragraph and an updated font from "Arial" to "Poppins". Resolved merge conflicts during both merging and rebasing.
-- Gained familiarity with conflict markers and ensured correctness post-resolution.
-
-### 4. **Stash and Rebase**
+### 2. **Stash and Rebase**
 - Used git stash to temporarily save uncommitted changes and allow for task switching.
 - Successfully reapplied stashed changes after resolving conflicts.
 - Rebasing prod branches onto the updated main branch to maintain a linear commit history.
+
+ ### 3. **Merging with main**
+- Merged prod branches into the main branch while addressing divergence.
+- Practiced both fastforward and three way merges, depending on branch history.
+
+### 4. **Conflict Resolution**
+- The main branch had diverged due to "Dev is cool" paragraph and an updated font from "Arial" to "Poppins". Resolved merge conflicts during both merging and rebasing.
+- Gained familiarity with conflict markers and ensured correctness post-resolution.
+
+### 5. Updating Remote
 - Used `git push -f` to update remote branches after rebasing, ensuring a clean history.
 
   ![image alt](https://github.com/GitCadet/HelloWorld/blob/main/Screenshot%202025-01-20%20at%2017.30.56.png?raw=true)
 
-### 7. **Merging into main**
+### 7. **Validation**
 - Validated the prod branch and merged it into the main branch to simulate a deployment.
 - Verified the deployment by testing the updated web application to ensure all changes were reflected and functional.
 
