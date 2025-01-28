@@ -12,7 +12,7 @@ This repository was created to practice Git workflows and imitate real world dev
 ### 2. **Stash and Rebase**
 - Used git stash to temporarily save uncommitted changes and allow for task switching.
 - Successfully reapplied stashed changes after resolving conflicts.
-- Rebasing prod branches onto the updated main branch to maintain a linear commit history.
+- Rebased prod branch onto the updated main branch to maintain a linear commit history.
 
  ### 3. **Merging with main**
 - Merged prod branches into the main branch while addressing divergence.
